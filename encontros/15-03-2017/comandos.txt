@@ -1,0 +1,2 @@
+sudo apt-get install pip3
+pip3 install numpy
