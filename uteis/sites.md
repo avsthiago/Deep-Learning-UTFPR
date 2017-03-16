@@ -1,3 +1,5 @@
 ## Livro Neuralnetworks and Deep Learning
-sadsad
-http://neuralnetworksanddeeplearning.comsdad
+
+Livro que estamos utilizando para o mnist
+
+http://neuralnetworksanddeeplearning.com
